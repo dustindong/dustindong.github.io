@@ -21,7 +21,7 @@
   	background-color: rgba(0,0,0,0.75);
   color: white;
   z-index: -1;
-  padding: 30px;
+  padding: 50px;
 }
  a {
  	color:white;
@@ -36,6 +36,5 @@
   	position: relative;
   	z-index: 1;
   	padding: 20px;
-  	opacity: 1;
   }
 </style>
