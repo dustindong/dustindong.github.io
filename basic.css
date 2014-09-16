@@ -21,7 +21,7 @@
   	background-color: rgba(0,0,0,0.75);
   color: white;
   z-index: -1;
-  padding: 50px;
+  padding: 30px;
 }
  a {
  	color:white;
@@ -33,7 +33,6 @@
     img {
   	margin: 0px;
   	float: left;
-  	position: relative;
   	z-index: 1;
   	padding: 20px;
   }
