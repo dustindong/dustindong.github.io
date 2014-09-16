@@ -14,7 +14,7 @@
   body {
   	background-image: url('bg.JPG');
   	background-position: relative;
-  	background-size: 100%;
+  	background-size: cover;
     background-repeat: no-repeat;
   }
   #paragraphs{
