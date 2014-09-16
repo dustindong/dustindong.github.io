@@ -1,0 +1,41 @@
+<style>
+
+.name, h1, h2 {
+    color: white;
+    font-family: 'Indie Flower', cursive;
+  }
+
+  .text {
+  	color: white;
+  	font-family: 'PT Sans', sans-serif;
+  	font-size: 16px;
+  }
+
+  body {
+  	background-image: url('bg.JPG');
+  	background-position: absolute;
+  	background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  #paragraphs{
+  	background-color: black;
+  color: white;
+  opacity: .75;
+  z-index: -1;
+  padding: 10px;
+}
+ a {
+ 	color:white;
+ 	font-size: 18px;
+ }
+ a:hover {
+ 	color: #58ACFA;
+ }
+    img {
+  	margin: 0px;
+  	float: left;
+  	position: relative;
+  	z-index: 1;
+  	padding: 10px;
+  }
+</style>
